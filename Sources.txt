@@ -1,5 +1,5 @@
 [1] Michael Griebel, Stephan Knapek, and Gerhard Zumbusch. Numerical Simulation in Molecular Dynamics. Springer Berlin Heidelberg New York, 1st edition, 2007.
-
+ 
 [2] Bart Janssens. CXXWRAP.JL Julia and C++: a technical overview of CxxWrap.jl, 2020. URL https://barche.github.io/juliacon2020-cxxwrap-talk/#/2/1.
 
 [3] Honghui Shang, Li Shen, Yi Fan, Zhiqian Xu, Chu Guo, Jie Liu, Wenhao Zhou, Huan Ma, Rongfen Lin, Yuling Yang, et al. Large-Scale Simulation of Quantum Computational Chemistry on a New Sunway Supercomputer. arXiv preprint arXiv:2207.03711, 2022.
@@ -9,3 +9,11 @@
 [5] Hans-Joachim Bungartz, Stefan Zimmer, Martin Buchholz, and Dirk Pflu ̈ger. Modell- bildung und Simulation: eine anwendungsorientierte Einfu ̈hrung. Springer-Verlag, 2nd edition, 2013. 
 
 [6] Fabio Alexander Gratl, Steffen Seckler, Hans-Joachim Bungartz, and Philipp Neumann. N ways to simulate short-range particle systems: Automated algorithm selection with the node-level library autopas. Computer Physics Communications, 273:108262, 2021. doi: 10.1016/j.cpc.2021.108262. 
+
+[7] “Julia_Programming_Language_Logo.svg“. 23.05.2023, Wikipedia,
+https://en.wikipedia.org/wiki/Julia_%28programming_language%29#/media/File:Julia_Programming_Language_Logo.svg
+
+[8] “Logo of the Technical University of Munich.svg“. 23.05.2023, Wikipedia, 
+https://de.wikipedia.org/wiki/Datei:Logo_of_the_Technical_University_of_Munich.svg
+
+[9] James Gardner, Oscar A Douglas-Gallardo, Wojciech G Stark, Julia Westermayr, Svenja M Janke, Scott Habershon, and Reinhard J Maurer. Nqcdynamics.jl: A Julia package for nonadiabatic quantum classical molecular dynamics in the condensed phase. The Journal of Chemical Physics, 156(17):174801, 2022.
